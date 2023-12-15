@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Swagyo",
+  "short_name": "Swagyo",
+  "description": "Here You Can Find Blogging Tutorials, Tips, Tricks, Blogger Templates, WordPress and Games Updates , News , Many More....",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "News",
+      "short_name": "News",
+      "description": "Here you can find Worldwide news...",
+      "url": "/search/label/News?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +102,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "Shop",
+      "short_name": "Shop",
+      "description": "Here you get branded Products...",
+      "url": "/search/label/Shop?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
