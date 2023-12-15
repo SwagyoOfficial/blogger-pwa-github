@@ -1,5 +1,5 @@
 if (typeof Lazy !== "function") {
-  /*! Lazy Function by Fineshop Design | uses HTML5 localStorage */
+  /*! Lazy Function by Swagyo | uses HTML5 localStorage */
   (function(e) {
     var t = [];
 
