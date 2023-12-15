@@ -2,7 +2,7 @@
 
 /**
  * @license
- * Copyright (c) 2023 Fineshop Design
+ * Copyright (c) 2023 Swagyo
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,7 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'fineshop-pwa-app'
+    name: 'swagyo-pwa-app'
   },
   github: {
     username: '<SwagyoOfficial>',
