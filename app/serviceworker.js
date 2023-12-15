@@ -1,5 +1,5 @@
 /**
- * PWA build by Fineshop Design
+ * PWA build by Swagyo
  */
 importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/7.0.0/workbox-sw.js"
@@ -8,7 +8,7 @@ importScripts(
 // Configurations for PWA App
 const config = {
   app: {
-    name: "fineshop-pwa-app",
+    name: "swagyo-pwa-app",
     version: "v1",
     precache: "install-time",
     runtime: "run-time",
