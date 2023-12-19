@@ -49,8 +49,8 @@ if (typeof Lazy !== "function") {
         logs.push(["Script: " + registration.active.scriptURL]);
       }
       logs.push(
-        ["Build by: Fineshop Design"],
-        ["Developer site: https://fineshopdesign.com"]
+        ["Build by: Swagyo"],
+        ["Developer site: https://swagyo.com"]
       );
 
       groupLog(
@@ -140,7 +140,7 @@ if (typeof Lazy !== "function") {
      * Load OneSignal SDK only if required
      * Uses Lazy to lazyload javascript for better performance
      * 
-     * @see https://www.fineshopdesign.com/2023/04/lazyloading-javascript.html
+     * @see https://www.swagyo.com/2023/04/lazyloading-javascript.html
      */
     if (typeof OneSignal === "undefined") {
       Lazy(() => {
