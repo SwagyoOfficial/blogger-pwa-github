@@ -25,12 +25,12 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'swagyo shop-pwa-app'
+    name: 'swagyo ukg-pwa-app'
   },
   github: {
     username: '<SwagyoOfficial>',
     repository: '<blogger-pwa-github>',
-    branch: '<shop>',
+    branch: '<ukg>',
     /**
      * If the repository is private, provide token as string
      * otherwise keep it null
