@@ -8,7 +8,7 @@ importScripts(
 // Configurations for PWA App
 const config = {
   app: {
-    name: "swagyo shop-pwa-app",
+    name: "swagyo ukg-pwa-app",
     version: "v1",
     precache: "install-time",
     runtime: "run-time",
