@@ -25,7 +25,7 @@
 
 const APP_CONFIG = {
   app: {
-    name: 'swagyo ukg-pwa-app'
+    name: 'UKG ukg-pwa-app'
   },
   github: {
     username: '<SwagyoOfficial>',
